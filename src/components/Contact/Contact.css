@@ -1,0 +1,187 @@
+.image{
+    position: relative;
+    height: 140px;
+    margin-top: -50px;
+    
+}
+.contact-hero {
+    height: 510px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position:relative;
+    padding-bottom: 40px;
+    margin-top: 0px;
+    padding-left: 60px;
+    color: white;
+}
+.contact-hero1{
+    position: relative;
+    width: 300px;
+    height: 100px;
+}
+.contact-hero1 h3{
+    font-size: 36px;
+    color: rgb(255, 255, 255);
+    margin-top: 85px;
+    width: 180px;
+    position:relative;
+}
+.contact-hero1 p{
+    margin-top: 2px;
+    font-size:14px;
+    width: 250px;
+    position: absolute;
+    color: rgb(255, 255, 255);
+}
+.color{
+    width: 10px;
+    height:85px;
+    position: absolute;
+    background:rgba(255, 255, 255, 0.601);
+    border-radius: 10px;
+    margin-top: 270px;
+    margin-left: 35px;
+}
+.contact{
+    margin: -410px 0px;
+    padding-left: 100px;
+    width: 100%;
+    height: 480px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(231, 228, 248);
+    position: relative;
+    box-shadow: 0px 0px 1px black;
+}
+.contact-call{
+    width: 600px;
+    height: 470px;
+    color: black;
+    margin-right: 10px;
+    margin-top: 35px;
+    padding: 0;
+    position:relative;
+}
+.contact-call h3{
+    color: black;
+    font-weight: 800;
+    font-size: 26px;
+    display: flex;
+    align-items: center;
+    margin-top: 80px;
+    text-align:start;
+    width: 500px;
+    padding-left: 100px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.contact-call p{
+    margin-top: 10px;
+    width: 580px;
+    line-height: 1.3;
+    padding-left: 100px;
+}
+.contact-call ul li{
+    display: flex;
+    align-items: center;
+    margin: 20px 100px;
+}
+.contact-call ul li img{
+    width: 25px;
+    margin-right: 10px;
+}
+.contact-call2{
+    width: 100%;
+    background: white;
+    margin-top: 650px;
+    position: relative;
+}
+.contact-call1{
+    position: absolute;
+    width: 620px;
+    color: black;
+    margin-left: 400px;
+    margin-top: -700px;
+    text-align: center;
+    background:transparent;
+}
+.contact-call1 p{
+    padding-top: 20px;
+}
+.contact-call1 h3{
+    font-size: xx-large;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.contact form input {
+    display: block;
+    width: 500px;
+    height: 50px;
+    background: rgb(255, 255, 255);
+    padding: 15px;
+    border: 0;
+    outline: 0;
+    margin-bottom: 10px;
+    margin-top: 2px;
+    resize: none;
+    border-radius: 10px;
+}
+
+.contact form textarea{
+     display: block;
+    width: 500px;
+    height: 80px;
+    background: rgb(255, 255, 255);
+    padding: 15px;
+    border: 0;
+    outline: 0;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    resize: none;
+    border-radius: 10px;
+}
+.contact-call span{
+    margin: 20px 0;
+    color: red;
+}
+.contact-call .file{
+    width: 100px;
+    background: transparent;
+    position: absolute;
+    margin-left: 15px;
+    margin-top: -12px;
+    color: rgba(255, 255, 255, 0);
+}
+.contact-call form p{
+    position: absolute;
+    margin-left: -55px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+.contact-call form img{
+    position: absolute;
+    width: 19px;
+    margin-top: 6px;
+    margin-left: 15px;
+}
+.btn1{
+    margin-left: 330px;
+    margin-top: -5px;
+    background: #7b00ff;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+}
+.btn1:hover{
+    background: green;
+    box-shadow: 2px 2px 2px black;
+}
